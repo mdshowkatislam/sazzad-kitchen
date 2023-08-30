@@ -1,0 +1,24 @@
+(Md Showkat islam,tuhin , mail: showkattuhin88766@gmail.com)
+-----------------------------------------
+## All seeding problem solusion:
+1)
+settingsSeeder  //target class not exit (first solve this then possible))
+2)
+ordersSeeder   //#done after user seeding
+
+
++++++++++++++++++++++++++++++++
+
+cartSeeder  //* can not possible to seed table !=seederTable
+
+OrderItemsSeeder   // not possible to seed any
+
+
+
+ReviewsSeeder  //not possible 
+
+TransactionsSeeder // not possible
+
+DatabaseSeeder // don't do this as those problems occurse first.
+
+
